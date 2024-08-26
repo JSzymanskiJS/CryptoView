@@ -1,3 +1,6 @@
+# Important notes:
+If nobody told you before - please, keep in mind that it is my first time with this tech-stack. Typically I used TypeScript + Ethers.js + Hardhat for smart contract development and Python + Django REST Framework / FastAPI + PostgreSQL for backend.
+
 # 4. Token Balance Lookup:
 25.08.2024:
 ---

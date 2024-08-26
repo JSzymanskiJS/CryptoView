@@ -1,3 +1,6 @@
+# FOR REVIEWER:
+Please read the `notes.md` file in the root directory of this project. Thanks in advance.
+
 # CryptoView
 
 ## Crypto Trading Platform
